@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediaPlayerExample</string>
+    <string name="Player">Player de Música do Warley</string>
+</resources>
